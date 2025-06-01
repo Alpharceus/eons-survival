@@ -1,0 +1,152 @@
+{
+  "Paleozoic": {
+    "Cambrian": {
+      "environment": "Shallow, warm seas cover most of the planet. The land is barren, lifeless rock. Oxygen is limited.",
+      "fauna": [
+        "Trilobites", "Anomalocaris", "Hallucigenia", "Opabinia", "Wiwaxia", "Pikaia"
+      ],
+      "flora": [
+        "Cyanobacteria mats", "Algal scum"
+      ],
+      "events": [
+        "Cambrian Explosion", "Origin of most animal body plans"
+      ]
+    },
+    "Ordovician": {
+      "environment": "Vast, tropical seas teeming with life. Coral reefs form for the first time. Early plants begin to colonize the land.",
+      "fauna": [
+        "Orthoceras", "Graptolites", "Brachiopods", "Sea scorpions", "Crinoids"
+      ],
+      "flora": [
+        "Algae", "Early liverworts"
+      ],
+      "events": [
+        "First land plants", "Ordovician-Silurian extinction"
+      ]
+    },
+    "Silurian": {
+      "environment": "Warm, stable seas with rising landmasses. The first vascular plants and animals colonize land.",
+      "fauna": [
+        "Eurypterids (sea scorpions)", "Jawless fish", "Coral reefs", "First millipedes and scorpions on land"
+      ],
+      "flora": [
+        "Cooksonia", "Baragwanathia", "Primitive mosses"
+      ],
+      "events": [
+        "First terrestrial animals", "Development of fish jaws"
+      ]
+    },
+    "Devonian": {
+      "environment": "First forests and rivers appear. Fish dominate the seas and lakes. Land becomes greener.",
+      "fauna": [
+        "Dunkleosteus", "Placoderms", "Tiktaalik", "Lungfish", "Early sharks", "Amphibians"
+      ],
+      "flora": [
+        "Ferns", "First trees (Archaeopteris)", "Lycophytes", "Horsetails"
+      ],
+      "events": [
+        "First amphibians", "Devonian extinction"
+      ]
+    },
+    "Carboniferous": {
+      "environment": "Vast swampy forests, high oxygen, lush vegetation. Giant insects abound.",
+      "fauna": [
+        "Meganeura (giant dragonfly)", "Amphibians", "Arthropleura (giant millipede)", "Early reptiles"
+      ],
+      "flora": [
+        "Lepidodendron", "Sigillaria", "Ferns", "Horsetails"
+      ],
+      "events": [
+        "Coal formation", "First reptiles"
+      ]
+    },
+    "Permian": {
+      "environment": "Continents fuse into Pangaea. Climate is drier with vast deserts, but some lush regions remain.",
+      "fauna": [
+        "Dimetrodon", "Edaphosaurus", "Gorgonopsids", "Therapsids", "Pareiasaurs"
+      ],
+      "flora": [
+        "Conifers", "Seed ferns", "Ginkgos"
+      ],
+      "events": [
+        "Permian extinction (The Great Dying)", "Rise of early mammal-like reptiles"
+      ]
+    }
+  },
+  "Mesozoic": {
+    "Triassic": {
+      "environment": "Hot, dry supercontinent with deserts and some lush coastal areas. Oceans teeming with new life.",
+      "fauna": [
+        "Coelophysis", "Plateosaurus", "Postosuchus", "Early pterosaurs", "Ichthyosaurs"
+      ],
+      "flora": [
+        "Cycads", "Conifers", "Ginkgos"
+      ],
+      "events": [
+        "First dinosaurs", "First mammals", "Triassic-Jurassic extinction"
+      ]
+    },
+    "Jurassic": {
+      "environment": "Warm, humid climate with lush forests and many shallow seas. Dinosaurs thrive.",
+      "fauna": [
+        "Stegosaurus", "Diplodocus", "Allosaurus", "Apatosaurus", "Archaeopteryx"
+      ],
+      "flora": [
+        "Tree ferns", "Conifers", "Cycads", "Ginkgo"
+      ],
+      "events": [
+        "First birds", "Proliferation of giant sauropods"
+      ]
+    },
+    "Cretaceous": {
+      "environment": "Flowering plants appear. Diverse climates: forests, plains, and polar forests. Ends with massive extinction.",
+      "fauna": [
+        "Tyrannosaurus rex", "Triceratops", "Velociraptor", "Ankylosaurus", "Pteranodon", "Mosasaurs"
+      ],
+      "flora": [
+        "Angiosperms (flowering plants)", "Conifers", "Ferns"
+      ],
+      "events": [
+        "K-Pg extinction (asteroid impact)", "Rise of flowering plants"
+      ]
+    }
+  },
+  "Cenozoic": {
+    "Paleogene": {
+      "environment": "Warm climate, forests cover much land, mammals and birds rapidly diversify.",
+      "fauna": [
+        "Early horses (Eohippus)", "Brontotheres", "Large flightless birds (Gastornis)", "Early primates"
+      ],
+      "flora": [
+        "Palm trees", "Deciduous trees", "Grasses begin to spread"
+      ],
+      "events": [
+        "Mammalian radiation", "Appearance of whales and bats"
+      ]
+    },
+    "Neogene": {
+      "environment": "Climate cools, grasslands expand, many modern animal groups evolve.",
+      "fauna": [
+        "Mastodons", "Saber-toothed cats", "Early hominids", "Giant sharks (Megalodon)", "Antelope"
+      ],
+      "flora": [
+        "Grasses dominate", "Hardwood trees", "Modern shrubs"
+      ],
+      "events": [
+        "First true apes", "Ice ages begin"
+      ]
+    },
+    "Quaternary": {
+      "environment": "Frequent ice ages. Modern humans evolve. Huge mammals roam the plains.",
+      "fauna": [
+        "Woolly mammoth", "Smilodon (saber-toothed cat)", "Homo sapiens", "Cave bears", "Giant ground sloths"
+      ],
+      "flora": [
+        "Tundra mosses", "Conifers", "Modern flowering plants"
+      ],
+      "events": [
+        "End of last Ice Age", "Rise of human civilization", "Megafaunal extinctions"
+      ]
+    }
+  }
+}
